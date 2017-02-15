@@ -77,3 +77,168 @@ Testing time for move-decimal-point with positive n: 10883.456ms
 Testing time for this version with negative n: 6771.009ms
 Testing time for move-decimal-point with negative n: 9601.912ms
 -------------Test Batch Ended--------------
+-----Testing time: 2017-02-15.03:40:41-----
+--------------Test number 1---------------
+Testing time for this version with positive n: 6535.720ms
+Testing time for move-decimal-point with positive n: 9993.514ms
+Testing time for this version with negative n: 6206.283ms
+Testing time for move-decimal-point with negative n: 8783.033ms
+-------------Test Batch Ended--------------
+-----Testing time: 2017-02-15.03:42:40-----
+--------------Test number 1---------------
+Testing time for this version with positive n: 1.444ms
+Testing time for move-decimal-point with positive n: 0.443ms
+Testing time for this version with negative n: 1.308ms
+Testing time for move-decimal-point with negative n: 0.158ms
+--------------Test number 2---------------
+Testing time for this version with positive n: 1.254ms
+Testing time for move-decimal-point with positive n: 0.369ms
+Testing time for this version with negative n: 1.496ms
+Testing time for move-decimal-point with negative n: 0.169ms
+--------------Test number 3---------------
+Testing time for this version with positive n: 1.396ms
+Testing time for move-decimal-point with positive n: 0.419ms
+Testing time for this version with negative n: 1.410ms
+Testing time for move-decimal-point with negative n: 0.155ms
+--------------Test number 4---------------
+Testing time for this version with positive n: 1.867ms
+Testing time for move-decimal-point with positive n: 0.488ms
+Testing time for this version with negative n: 1.416ms
+Testing time for move-decimal-point with negative n: 0.158ms
+--------------Test number 5---------------
+Testing time for this version with positive n: 1.300ms
+Testing time for move-decimal-point with positive n: 0.430ms
+Testing time for this version with negative n: 1.455ms
+Testing time for move-decimal-point with negative n: 0.154ms
+--------------Test number 6---------------
+Testing time for this version with positive n: 1.379ms
+Testing time for move-decimal-point with positive n: 0.375ms
+Testing time for this version with negative n: 1.433ms
+Testing time for move-decimal-point with negative n: 0.166ms
+--------------Test number 7---------------
+Testing time for this version with positive n: 1.252ms
+Testing time for move-decimal-point with positive n: 0.366ms
+Testing time for this version with negative n: 1.396ms
+Testing time for move-decimal-point with negative n: 0.152ms
+--------------Test number 8---------------
+Testing time for this version with positive n: 1.363ms
+Testing time for move-decimal-point with positive n: 0.374ms
+Testing time for this version with negative n: 1.316ms
+Testing time for move-decimal-point with negative n: 0.152ms
+--------------Test number 9---------------
+Testing time for this version with positive n: 2.010ms
+Testing time for move-decimal-point with positive n: 0.455ms
+Testing time for this version with negative n: 1.323ms
+Testing time for move-decimal-point with negative n: 0.169ms
+--------------Test number 10---------------
+Testing time for this version with positive n: 1.482ms
+Testing time for move-decimal-point with positive n: 0.409ms
+Testing time for this version with negative n: 1.532ms
+Testing time for move-decimal-point with negative n: 0.156ms
+-------------Test Batch Ended--------------
+-----Testing time: 2017-02-15.03:43:21-----
+--------------Test number 1---------------
+Testing time for this version with positive n: 1.711ms
+Testing time for move-decimal-point with positive n: 0.443ms
+Testing time for this version with negative n: 1.821ms
+Testing time for move-decimal-point with negative n: 0.222ms
+--------------Test number 2---------------
+Testing time for this version with positive n: 2.020ms
+Testing time for move-decimal-point with positive n: 0.517ms
+Testing time for this version with negative n: 1.484ms
+Testing time for move-decimal-point with negative n: 0.160ms
+--------------Test number 3---------------
+Testing time for this version with positive n: 1.836ms
+Testing time for move-decimal-point with positive n: 0.446ms
+Testing time for this version with negative n: 1.462ms
+Testing time for move-decimal-point with negative n: 0.181ms
+--------------Test number 4---------------
+Testing time for this version with positive n: 1.342ms
+Testing time for move-decimal-point with positive n: 0.389ms
+Testing time for this version with negative n: 1.366ms
+Testing time for move-decimal-point with negative n: 0.251ms
+--------------Test number 5---------------
+Testing time for this version with positive n: 1.475ms
+Testing time for move-decimal-point with positive n: 0.434ms
+Testing time for this version with negative n: 1.326ms
+Testing time for move-decimal-point with negative n: 0.152ms
+--------------Test number 6---------------
+Testing time for this version with positive n: 1.388ms
+Testing time for move-decimal-point with positive n: 0.376ms
+Testing time for this version with negative n: 1.348ms
+Testing time for move-decimal-point with negative n: 0.158ms
+--------------Test number 7---------------
+Testing time for this version with positive n: 1.357ms
+Testing time for move-decimal-point with positive n: 0.374ms
+Testing time for this version with negative n: 1.326ms
+Testing time for move-decimal-point with negative n: 0.157ms
+--------------Test number 8---------------
+Testing time for this version with positive n: 1.274ms
+Testing time for move-decimal-point with positive n: 0.383ms
+Testing time for this version with negative n: 1.382ms
+Testing time for move-decimal-point with negative n: 0.170ms
+--------------Test number 9---------------
+Testing time for this version with positive n: 1.792ms
+Testing time for move-decimal-point with positive n: 0.544ms
+Testing time for this version with negative n: 1.419ms
+Testing time for move-decimal-point with negative n: 0.180ms
+--------------Test number 10---------------
+Testing time for this version with positive n: 1.262ms
+Testing time for move-decimal-point with positive n: 0.372ms
+Testing time for this version with negative n: 1.377ms
+Testing time for move-decimal-point with negative n: 0.161ms
+-------------Test Batch Ended--------------
+-----Testing time: 2017-02-15.03:48:10-----
+-----Number of iterations is: 100000-----
+-----Number of runs is: 10-----
+--------------Test number 1---------------
+Testing time for this version with positive n: 6776.398ms
+Testing time for move-decimal-point with positive n: 9636.879ms
+Testing time for this version with negative n: 5879.424ms
+Testing time for move-decimal-point with negative n: 8982.939ms
+--------------Test number 2---------------
+Testing time for this version with positive n: 6727.523ms
+Testing time for move-decimal-point with positive n: 10558.690ms
+Testing time for this version with negative n: 6579.387ms
+Testing time for move-decimal-point with negative n: 9888.465ms
+--------------Test number 3---------------
+Testing time for this version with positive n: 7150.300ms
+Testing time for move-decimal-point with positive n: 10601.151ms
+Testing time for this version with negative n: 6346.945ms
+Testing time for move-decimal-point with negative n: 9989.183ms
+--------------Test number 4---------------
+Testing time for this version with positive n: 7077.791ms
+Testing time for move-decimal-point with positive n: 10958.822ms
+Testing time for this version with negative n: 6800.701ms
+Testing time for move-decimal-point with negative n: 10555.294ms
+--------------Test number 5---------------
+Testing time for this version with positive n: 7239.922ms
+Testing time for move-decimal-point with positive n: 10893.672ms
+Testing time for this version with negative n: 6482.415ms
+Testing time for move-decimal-point with negative n: 9552.619ms
+--------------Test number 6---------------
+Testing time for this version with positive n: 7094.201ms
+Testing time for move-decimal-point with positive n: 11176.672ms
+Testing time for this version with negative n: 6720.348ms
+Testing time for move-decimal-point with negative n: 10021.131ms
+--------------Test number 7---------------
+Testing time for this version with positive n: 7628.503ms
+Testing time for move-decimal-point with positive n: 11682.893ms
+Testing time for this version with negative n: 6651.894ms
+Testing time for move-decimal-point with negative n: 10092.149ms
+--------------Test number 8---------------
+Testing time for this version with positive n: 7105.036ms
+Testing time for move-decimal-point with positive n: 10649.745ms
+Testing time for this version with negative n: 6262.348ms
+Testing time for move-decimal-point with negative n: 9331.141ms
+--------------Test number 9---------------
+Testing time for this version with positive n: 7037.679ms
+Testing time for move-decimal-point with positive n: 11039.063ms
+Testing time for this version with negative n: 6384.144ms
+Testing time for move-decimal-point with negative n: 9457.220ms
+--------------Test number 10---------------
+Testing time for this version with positive n: 6981.641ms
+Testing time for move-decimal-point with positive n: 10653.419ms
+Testing time for this version with negative n: 6103.055ms
+Testing time for move-decimal-point with negative n: 8516.199ms
+-------------Test Batch Ended--------------
