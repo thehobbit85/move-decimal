@@ -3,7 +3,7 @@ const moveDecimalPoint = require('move-decimal-point')
 const jf = require('jsonfile')
 const path = require('path')
 const expect = require('chai').expect
-const ITERATIONS = 100000
+const ITERATIONS = parseInt(process.env.ITERATIONS, 10) || 1
 const fixtures = jf.readFileSync(path.join(__dirname, './fixtures.json'))
 
 let test = function (params, func, msg) {
