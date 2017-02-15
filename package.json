@@ -1,0 +1,21 @@
+{
+  "name": "decimal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "thehobbit85 <thehobbit85@gmail.com>",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thehobbit85/move-decimal"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "jsonfile": "^2.4.0",
+    "mocha": "^3.2.0",
+    "move-decimal-point": "0.0.1"
+  }
+}
