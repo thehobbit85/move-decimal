@@ -20,14 +20,14 @@ describe('Move decimal', function () {
   this.timeout(0)
 
   it('should return correct values for positive n', function (done) {
-    test(fixtures.positive, moveDecimal, 'Testing time for this version with positive n')
     test(fixtures.positive, moveDecimalPoint, 'Testing time for move-decimal-point with positive n')
+    test(fixtures.positive, moveDecimal, 'Testing time for this version with positive n')
     done()
   })
 
   it('should return correct values for negative n', function (done) {
-    test(fixtures.negative, moveDecimal, 'Testing time for this version with negative n')
     test(fixtures.negative, moveDecimalPoint, 'Testing time for move-decimal-point with negative n')
+    test(fixtures.negative, moveDecimal, 'Testing time for this version with negative n')
     done()
   })
 })
