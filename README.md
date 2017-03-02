@@ -1,6 +1,6 @@
 ## move-decimal
 
-A 50% faster Drop-in replacement for https://www.npmjs.com/package/move-decimal-point .
+A 50% faster Drop-in replacement for [move-decimal-point](https://www.npmjs.com/package/move-decimal-point).
 
 Moves the decimal in a string to right/left.
 Usefull when wanting to perform accurate division/multiplication with powers of 10 without any precision issues
