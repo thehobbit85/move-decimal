@@ -17,7 +17,7 @@ module.exports = (n, p) => {
     if (z < 0) return l + '.' + r.slice(m, len)
     else if (z > 0) for (i = 0; i < z; i++) l = l + '0'
     return l
-  } else if (p < 0) {
+  } if (p < 0) {
     p *= -1
     len = l.length
     let { z, m } = { z: p - len, m: p - len > 0 ? len : p }
