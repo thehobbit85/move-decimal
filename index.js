@@ -1,16 +1,11 @@
 module.exports = (n, p) => {
   let i, r, l, s, len
-  s = n[0] === '-' ? '-' : ''
-  n = s ? n.replace('-', '') : n
+  s = n[0] === '-' ? (n = n.replace('-', '')) && '-' : ''
   len = n.length
-  for (i = 0; i < len; i++) if (n[i] === '.') break
-  if (i < len) {
-    l = n.slice(0, i) || '0'
-    r = n.slice(i + 1, len) || '0'
-  } else {
-    l = n || '0'
-    r = '0'
-  }
+  i = n.indexOf('.')
+  i = ~i ? i : len
+  l = n.slice(0, i)
+  r = n.slice(i + 1, len) || '0'
   i = 0
   if (p > 0) {
     len = r.length
