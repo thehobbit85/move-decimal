@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha",
-    "benchmark": "ITERATIONS=100000 RUNS=10 sh testrun.sh"
+    "benchmark": "ITERATIONS=100000 RUNS=10 sh testrun.sh",
+    "cover": "istanbul cover _mocha -- -R tap > test-reports.tap && istanbul report html"
   },
   "author": "thehobbit85 <thehobbit85@gmail.com>",
   "license": "ISC",
@@ -17,6 +18,8 @@
     "chai": "^3.5.0",
     "jsonfile": "^2.4.0",
     "mocha": "^3.2.0",
-    "move-decimal-point": "0.0.1"
+    "move-decimal-point": "^0.0.1",
+    "istanbul": "^0.4.5",
+    "tape": "^4.6.3"
   }
 }
